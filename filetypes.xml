@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="ChocolateTotalsFormatter" type="Ruby" />
+      <mapping pattern="file_importer" type="Ruby" />
+    </extensionMap>
+  </component>
+</application>
